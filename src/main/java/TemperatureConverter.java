@@ -13,4 +13,9 @@ public boolean isExtremeTemperature(double celsius){
     return celsius < -40 || celsius > 50;
 }
 
+
+public static void main(String[] args){
+    System.out.println("running main");
+}
+
 }
